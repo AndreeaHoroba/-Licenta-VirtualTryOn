@@ -7,7 +7,7 @@
 
 ## About the project
 
-This is a cross-platform mobile app (Android/iOS) built as a smart wardrobe assistant powered by AI. The user takes a photo of themselves, the app generates a body silhouette, and they can virtually try on clothes from their digital wardrobe to see how different outfits look without physically wearing them. The app also includes an AI stylist chatbot, a perfume recommendation engine based on Machine Learning, an AI garment generator using Stable Diffusion, and an outfit calendar with a 7-day weather forecast.
+This is a cross-platform mobile app (Android) built as a smart wardrobe assistant powered by AI. The user takes a photo of themselves, the app generates a body silhouette, and they can virtually try on clothes from their digital wardrobe to see how different outfits look without physically wearing them. The app also includes an AI stylist chatbot, a perfume recommendation engine based on Machine Learning, an AI garment generator using Stable Diffusion, and an outfit calendar with a 7-day weather forecast.
 
 ---
 
